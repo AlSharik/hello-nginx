@@ -1,0 +1,5 @@
+apiVersion: v2
+name: hello-nginx
+description: A Helm chart for Kubernetes to deploy nginxdemos/hello
+version: 0.1.0
+
